@@ -1,4 +1,4 @@
-# Heroes Of Pymoli (fantasy game Data Analysis)
+# Heroes Of Pymoli (Fantasy Game Data Analysis)
 
 Heroes of Pymoli is a fantasy game of which is free-to-play, but players are encouraged to purchase optional items that would enhance their playing experience. In this report, I will analyze the game's purchasing data to draw meaningful insights.
 
@@ -40,3 +40,7 @@ We see that 652 purchases were made by male players while female players made 11
 
 According to purchase data of Heroes of Pymoli fantasy game, male players and the players in the 20-24 age group generate more revenue. Marketing campaigns focusing on these groups will have more possibility to increase revenue. Marketing campaigns increasing the visibility of popular items will bring more revenue. 
 
+بعد قراءه التحليلات للبيانات تبين لي مايلي:
+الاعبين الذكور من 20-24 هم الفئه المستهدفه. لقد حققو أعلى العوائد في المشتريات في اللعبه، وعلى هذا الاساس فإن التركيز لعمل الحملات التسويقيه لهذه الفئه قد يزيد من احتمالية العوائد للسنوات القادمه
+
+AreejHum
