@@ -19,7 +19,7 @@ According to purchase data, 484 of the players declared themselves as "Male" (84
 
 We see that 652 purchases were made by male players while female players made 113 purchases. $1,967.64 total revenue was generated from purchases made by male players while $361.94 total revenue was generated from the purchases made by female players (see the table below).
 
-![Figure 2]()
+![Figure 2](Images/Heropic2.PNG)
 
 45% of the purchases were made by the players in the age group 20-24 and $1,114.06 total revenue was generated from these purchases(see the table below). 
 
